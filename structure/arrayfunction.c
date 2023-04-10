@@ -15,7 +15,7 @@ int main()
 {
     struct arrayfunction s[10];
 
-     int i, n;
+    int i, n;
     printf("Enter the number of student: ");
     scanf("%d", &n);
     for (i = 1; i <= n; i++)
