@@ -13,3 +13,10 @@ Literals
 3.Literals are not named, as they are specified directly in the code.
 4.Literals can also have different data types depending on the value specified (e.g.18 is a integer literal, "Hello" is a string literal).
 5.Literals are local to the code block in which they are defined..
+
+
+
+We need to define the type of data because it helps to ensure memory efficiency, prevent errors, improve performance and enhance code readability.
+
+
+Conditional operator is also known as ternary operator which allow you to write compact Conditional expression.
